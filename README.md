@@ -3,4 +3,4 @@ This repo contains academic works and projects done by Michael Yeung, particular
 
 Projects include:
 - Undergrad Research - "Investment Analysis with Machine Learning" (2022)
- 
+- Project - "Bitcoin Low Frequency Trading Strategy Using Price, Trend and Sentiment Analysis" (2021, Groupwork with Cheng et al.)
