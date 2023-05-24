@@ -3,4 +3,5 @@ This repo contains academic works and projects done by Michael Yeung, particular
 
 Projects include:
 - Undergrad Research - "Investment Analysis with Machine Learning" (2022)
-- Project - "Bitcoin Low Frequency Trading Strategy Using Price, Trend and Sentiment Analysis" [LSTM] (2021, with Cheng et al.)
+- ML Project - "Bitcoin Low Frequency Trading Strategy Using Price, Trend and Sentiment Analysis" [LSTM] (2021, with Cheng et al.)
+- Data Visualization Project - "Uber in Boston" (2020, with Cheng et al.)
